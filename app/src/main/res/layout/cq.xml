@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cq">
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:text="Does cricket mean a religion to you? Get padded up, now it's your turn to recall some historic events. Unleash your Cricket Encyclopaedia and knockout the trivia questions!!"
+        android:layoutAnimation = "@anim/layout_item_slide_in"
+        android:textStyle="bold"
+        android:fontFamily="cursive"
+        android:textSize="25dp"
+        />
+
+</LinearLayout>
