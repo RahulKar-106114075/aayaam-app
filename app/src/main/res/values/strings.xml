@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">background</string>
+    <string-array name="events">
+        <item>cq</item>
+        <item>bq</item>
+        <item>bluff</item>
+    </string-array>
 </resources>

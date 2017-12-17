@@ -21,15 +21,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/rahul/AndroidStudioProjects/background/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="410a1a5657c883292948c07eaa6311fc5d8d20b2">
-        <dex dex="/home/rahul/AndroidStudioProjects/background/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_4d5946433cb5817cdc9e3d7ab07906206f9d3295.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/rahul/AndroidStudioProjects/background/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -43,17 +34,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="3ded04e68a4e0b2b5e23f398bd1219620899da51">
+        sha1="aaf228b7ac38cf64bd0ff4cad3aa62df5ffadba9">
         <dex dex="/home/rahul/AndroidStudioProjects/background/app/build/intermediates/pre-dexed/debug/instant-run_f6579c04f4f786d68ac21fe2c9d5a8ab1c2ce75e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rahul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/home/rahul/AndroidStudioProjects/background/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_2111dbf7a38bcc5cab2b06b32a4e27747c3ab02e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -90,6 +72,24 @@
         revision="25.0.2"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
         <dex dex="/home/rahul/AndroidStudioProjects/background/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_a3b7b1f2a8941a92dae4da134d15b2f948901610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rahul/AndroidStudioProjects/background/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12c4ce8072b3c77dd0c27cf5dc8c324df0925865">
+        <dex dex="/home/rahul/AndroidStudioProjects/background/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_4d5946433cb5817cdc9e3d7ab07906206f9d3295.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rahul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/rahul/AndroidStudioProjects/background/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_2111dbf7a38bcc5cab2b06b32a4e27747c3ab02e.jar" />
     </item>
     <item
         is-multidex="false"

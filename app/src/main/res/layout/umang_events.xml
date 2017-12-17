@@ -19,7 +19,9 @@
             android:layoutAnimation = "@anim/layout_item_slide_in"
             android:layout_weight="1.0"
             android:text="De Dana Dan"
-            android:clickable="true"/>
+            android:onClick="onClick"
+            android:clickable="true"
+            />
 
         <Button
             android:id="@+id/button2"

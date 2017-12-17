@@ -19,7 +19,7 @@ public class ActivityThree extends AppCompatActivity{
         fashionImg1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(ActivityThree.this,ActivityFour.class);
+                Intent intent = new Intent(ActivityThree.this,Activity4.class);
 
                 startActivity(intent);
             }
@@ -32,7 +32,7 @@ public class ActivityThree extends AppCompatActivity{
         fashionImg2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(ActivityThree.this,ActivityFour.class);
+                Intent intent = new Intent(ActivityThree.this,Activity4.class);
 
                 startActivity(intent);
             }
@@ -45,7 +45,7 @@ public class ActivityThree extends AppCompatActivity{
         fashionImg3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(ActivityThree.this,ActivityFour.class);
+                Intent intent = new Intent(ActivityThree.this,Activity4.class);
 
                 startActivity(intent);
             }
@@ -58,7 +58,7 @@ public class ActivityThree extends AppCompatActivity{
         fashionImg4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(ActivityThree.this,ActivityFour.class);
+                Intent intent = new Intent(ActivityThree.this,Activity4.class);
 
                 startActivity(intent);
             }
